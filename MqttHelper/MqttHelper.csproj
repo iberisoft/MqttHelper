@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Copyright>Copyright © 2020</Copyright>
+    <Copyright>Copyright © 2021</Copyright>
+    <RepositoryUrl>https://github.com/iberisoft/MqttHelper</RepositoryUrl>
+    <Description>This library facilitates working with MQTT protocol.</Description>
   </PropertyGroup>
 
   <ItemGroup>
