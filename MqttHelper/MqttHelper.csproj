@@ -8,6 +8,7 @@
     <Authors>Pavel Zaytsev</Authors>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <PackageTags>mqtt</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
