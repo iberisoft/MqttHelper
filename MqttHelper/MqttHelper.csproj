@@ -5,10 +5,20 @@
     <Copyright>Copyright © 2021</Copyright>
     <RepositoryUrl>https://github.com/iberisoft/MqttHelper</RepositoryUrl>
     <Description>This library facilitates working with MQTT protocol.</Description>
+    <Authors>Pavel Zaytsev</Authors>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageTags>mqtt</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="MQTTnet.Extensions.ManagedClient" Version="3.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
